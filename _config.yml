@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SDM Workshop -MNRC '25
-tagline: SDM Course
-description: SDM
+title: Decision Analysis Fa '25
+tagline: Decision Analysis Course
+description: Decision Analysis
 author: Brielle K Thompson
 baseurl: '/NATR_8001_DecisionAnalysis_Fall25_Mizzou' # the subpath of your site, e.g. /blog
 url: 'https://briellekthompson.github.io' # the base hostname & protocol for your site, e.g. http://example.com
