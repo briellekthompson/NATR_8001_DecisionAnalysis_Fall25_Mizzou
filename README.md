@@ -8,7 +8,6 @@ seo:
   name: Decision Analysis Course
 ---
 
-# Website for
 ## NATR 8001: Decision Analysis for Research and Management of Natural Resources
 ### University of Missouri
 ### Location: 210 Anheuser-Busch Natural Resources building
