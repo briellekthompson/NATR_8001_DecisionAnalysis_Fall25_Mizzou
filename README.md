@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: SDM workshop Midwest FW Conference
+  name: Decision Analysis Course
 ---
 
 # Website for:
