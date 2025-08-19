@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Decision Analysis Fa '25
+title: Decision Analysis Fall '25
 tagline: Decision Analysis Course
 description: Decision Analysis
 author: Brielle K Thompson

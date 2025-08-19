@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Schedule
+title: Weekly Schedule & Materials
 description: Weekly Schedule.
 ---
 
