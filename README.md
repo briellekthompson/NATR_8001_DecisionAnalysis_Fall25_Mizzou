@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NATR 8001: Decision Analysis for Research and Management of Natural Resources
+title: NATR 8001- Decision Analysis for Research and Management of Natural Resources
 nav_exclude: true
 permalink: /:path/
 seo:
