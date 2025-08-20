@@ -9,8 +9,7 @@ nav_order: 2
 
 | Week | Topic                                      | PrOACT Step | Lecture     | Skill check  | Readings |
 |:---- |:-------------------------------------------|:------------|:------------|:-------------|:---------|
-| 1    | Motivation for Structured Decision Making\ |N/A          |             |              |          |
+| 1    | Motivation for Structured Decision Making  |N/A          |             |              |          |
 |      |- Quick PrOACT Story| Right                 |             |             |              |          |
-
-| 2    | Motivation for Structured Decision Making\ |N/A          |             |              |          |
+| 2    | Motivation for Structured Decision Making  |N/A          |             |              |          |
 |      |- Quick PrOACT Story| Right                 |             |             |              |          |
