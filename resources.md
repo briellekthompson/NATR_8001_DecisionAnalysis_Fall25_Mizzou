@@ -10,7 +10,7 @@ nav_order: 4
 Below are a list of a variety of resources that may be useful to learn more about decision analysis/structured decision making
 
 ## Helpful Resources
-- [Structured Decision Making Cheat Sheet](SDMworksheet.pdf)
+- [Structured Decision Making Cheat Sheet](https://briellekthompson.github.io/NATR_8001_DecisionAnalysis_Fall25_Mizzou/details/SDMcheatsheet.pdf)
 - Structured Decision Making Book (Runge et al. 2020)
 - Review paper: An introduction to decision science for conservation ([Hemming et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13868))
 - Smart Choices book (John S. Hammond, Ralph L Keeney, Howard Raiffa)
