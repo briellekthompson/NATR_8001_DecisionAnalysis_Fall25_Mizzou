@@ -11,7 +11,7 @@ Below are a list of a variety of resources that may be useful to learn more abou
 
 ## Helpful Resources
 - [Structured Decision Making Cheat Sheet](https://briellekthompson.github.io/NATR_8001_DecisionAnalysis_Fall25_Mizzou/details/SDMcheatsheet.pdf)
-- Structured Decision Making Book (Runge et al. 2020)
+- Structured Decision Making Books: Runge et al. 2020, Gregory et al. 2012, Conroy and Peterson 2013
 - Review paper: An introduction to decision science for conservation ([Hemming et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13868))
 - Smart Choices book (John S. Hammond, Ralph L Keeney, Howard Raiffa)
 - National Conservation Training Center [videos](https://www.fws.gov/training/ALC3183-an-overview-of-structured-decision-making)
