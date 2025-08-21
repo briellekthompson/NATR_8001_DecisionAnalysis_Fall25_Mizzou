@@ -5,7 +5,7 @@ description: Final Assignment
 nav_order: 3
 ---
 
-## Final Assignment
+# Final Assignment
 
 During the final week of class, each student will be expected to informally discuss (~5 minutes) how components of decision analysis/ Structured Decision Making could be applied to their current graduate research project. 
 You will be expected to email me your PowerPoint presentation.
