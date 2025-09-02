@@ -11,7 +11,7 @@ seo:
 ## NATR 8001: Decision Analysis for Research and Management of Natural Resources
 ### University of Missouri
 ### Location: 210 Anheuser-Busch Natural Resources building
-### Time: Tuesdays, 2-4pm August 25-October 17 (first 8 weeks)
+### Time: Tuesdays, 2-4pm August 25-October 21 (No class 10/7)
 ### Instructor: Dr. Brielle K Thompson
 
 
