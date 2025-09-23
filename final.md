@@ -8,7 +8,7 @@ nav_order: 3
 # Final Assignment
 
 During the final week of class, each student will be expected to informally discuss (~5 minutes) how components of decision analysis/ Structured Decision Making could be applied to their current graduate research project. 
-You will be expected to email me your PowerPoint presentation.(See example here)
+You will be expected to email me your PowerPoint presentation.(See example [here](details/RapidPrototype_SDM_Mizzou.pdf)    
 
 The rapid prototyping grading rubric is found below:
 
